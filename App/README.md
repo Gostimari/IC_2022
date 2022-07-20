@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Follow this tutorial to begin https://docs.amplify.aws/start/q/integration/react/
 
 ## Available Scripts
 
