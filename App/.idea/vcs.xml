@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/App-test/flutter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/amplifyapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/amplifyapp-test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/material-dashboard-react" vcs="Git" />
+  </component>
+</project>
